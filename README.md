@@ -14,5 +14,3 @@ Building classical ML models using MNIST dataset
 - Trained a multi-class logistic regression model using tensorflow and included confusion matrix to summarize the performance of the model.
 - Printed out some correctly and incorrectly classified images for each label, together with the output of the discriminant functions.
 - Used Rectified Linear unit(relu) activation function, Stochastic Gradient Descent(SDE) for optimizing the model and Mean squared error(MSE) loss function.
-
-- 
