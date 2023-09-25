@@ -10,7 +10,14 @@ Building classical ML models using MNIST dataset
 - Classified the images in the testing data set using 0-1 loss function and Bayesian Decision Rule to report the performance by assuming that the class-conditional 784-dimensional image vector has Gaussian distribution. The confusion matrix is shown to summarize the prediciton summary. 
 - Printed out some correctly and incorrectly classified images for each label, together with the output of the discriminant functions
 
-## task 3
+## Task 3
 - Trained a multi-class logistic regression model using tensorflow and included confusion matrix to summarize the performance of the model.
 - Printed out some correctly and incorrectly classified images for each label, together with the output of the discriminant functions.
 - Used Rectified Linear unit(relu) activation function, Stochastic Gradient Descent(SDE) for optimizing the model and Mean squared error(MSE) loss function.
+
+## Task 4
+- Built a tensorflow input pipleine using tf.data
+- Implement Support Vector Machine model(SVM) for MNIST dataset
+
+## Task 5
+- Implemented one-against-one and one-against-all approaches for multi-class Support Vector Calssifier.
